@@ -36,7 +36,7 @@ const DrawerExample = ({handleClick}) => {
                 <DrawerOverlay />
                 <DrawerContent>
                     <DrawerCloseButton />
-                    <Flex className='nav-item' alignItems={"center"} border={"1px solid red"}>
+                    <Flex direction={"column"} gap= "10px" className='nav-item' alignItems={"center"} >
                         <Link activeClass="active" smooth spy to="home" className='nav-link home'>Home</Link>
                         <Spacer />
                         <Link activeClass="active" smooth spy to="about" className='nav-link about'>About</Link>

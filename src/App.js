@@ -5,9 +5,10 @@ import About from './Components/About';
 import Projects from './Components/Projects';
 import Skills from './Components/Skills';
 import Contact from './Components/Contact';
+
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
       <Navbar/>
       <Home/>
       <About />
