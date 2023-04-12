@@ -25,10 +25,11 @@ const handleClick = ()=>{
     <div id="nav-menu" style={{
       overflow: "hidden",
       position: "sticky",
-      color: "#05386B",
+      color: "#EDF5E1",
       top : "0",
       width: "100%",
       zIndex: "3",
+      backgroundColor: "#379683",
 }}>
   <Flex w={"80%"} margin={"auto"} alignItems={"Center"}>
     <Box w={"20%"} textAlign="start">
@@ -49,7 +50,7 @@ const handleClick = ()=>{
           <Spacer />
           <Link activeClass="active" smooth spy to="contact"  className='nav-link contact'>Contact</Link>
           <Spacer/>
-          <a href='https://drive.google.com/file/d/1sbqqthJjYmSV3q6JZ2cUa12eteaYpQ3O/view?usp=sharing' target="_blank" rel="noopener noreferrer"  className='nav-link resume'><Button bg={"#05386B"} color={"#EDF5E1"} onClick={()=>handleClick()}>Resume</Button></a>
+          <a id="resume-link-1" href='https://drive.google.com/file/d/1sbqqthJjYmSV3q6JZ2cUa12eteaYpQ3O/view?usp=sharing' target="_blank" rel="noopener noreferrer"  className='nav-link resume'><Button bg={"#05386B"} id="resume-button-1" color={"#EDF5E1"} onClick={()=>handleClick()}>Resume</Button></a>
           </Flex>
         </Show>
         <Hide above='xl'  border={"1px solid black"}>
