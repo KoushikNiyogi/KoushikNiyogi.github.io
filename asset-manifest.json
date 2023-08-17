@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.5e24f44e.css",
-    "main.js": "/static/js/main.ef26be3d.js",
+    "main.js": "/static/js/main.8d554cbc.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Daily_essential.png": "/static/media/Daily_essential.0eba2c6da43af7424506.png",
     "static/media/shoeable.png": "/static/media/shoeable.52ee845e98994861de2b.png",
     "static/media/dell.png": "/static/media/dell.2f70a9ed27d471619ca3.png",
     "static/media/fastdeal.png": "/static/media/fastdeal.c091da234c2ae93ee2c7.png",
-    "static/media/nutrimeter.png": "/static/media/nutrimeter.5658df71b8da1b55a8bf.png",
     "static/media/MyPhoto.JPG": "/static/media/MyPhoto.c4427af88d913b9e6897.JPG",
     "static/media/html.JPG": "/static/media/html.ef86c647a40c659f2a75.JPG",
     "index.html": "/index.html",
     "main.5e24f44e.css.map": "/static/css/main.5e24f44e.css.map",
-    "main.ef26be3d.js.map": "/static/js/main.ef26be3d.js.map",
+    "main.8d554cbc.js.map": "/static/js/main.8d554cbc.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e24f44e.css",
-    "static/js/main.ef26be3d.js"
+    "static/js/main.8d554cbc.js"
   ]
 }
